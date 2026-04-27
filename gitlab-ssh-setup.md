@@ -1,5 +1,7 @@
 # GitLab SSH Setup Guide
 
+SSH key is a secure way to prove our identity without passwords using cryptographic key pairs
+
 ## Problem
 ```
 Permission denied (publickey)
