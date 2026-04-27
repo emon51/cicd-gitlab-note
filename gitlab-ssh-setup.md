@@ -60,6 +60,10 @@ ssh-add ~/.ssh/id_ed25519
 ```
 ssh -T git@gitlab.com
 ```
+For local setup using Docker
+```
+ssh -T -p 2222 git@localhost
+```
 
 Expected:
 ```
